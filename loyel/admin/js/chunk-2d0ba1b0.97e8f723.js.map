@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/locales/lang/bn-BD/header.js"],"names":[],"mappings":"gHAAA,OAAe,cACX,cAAe,oBACf,kBAAmB","file":"js/chunk-2d0ba1b0.97e8f723.js","sourcesContent":["export default {\r\n    'header.sell': '{msg} বিক্রি করেন',\r\n    'header.customer': 'গ্রাহক সেবা',\r\n}\r\n"],"sourceRoot":""}
