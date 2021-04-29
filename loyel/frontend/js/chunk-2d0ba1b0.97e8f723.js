@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ba1b0"],{3690:function(e,s,n){"use strict";n.r(s),s["default"]={"header.sell":"{msg} বিক্রি করেন","header.customer":"গ্রাহক সেবা"}}}]);
-//# sourceMappingURL=chunk-2d0ba1b0.97e8f723.js.map
