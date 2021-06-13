@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-400512d8","chunk-2d0ba1b0"],{"2b65":function(e,s,a){"use strict";a.r(s);var t=a("5530"),u=a("3690");s["default"]=Object(t["a"])({message:"-"},u["default"])},3690:function(e,s,a){"use strict";a.r(s),s["default"]={"header.sell":"{msg} বিক্রি করেন","header.customer":"গ্রাহক সেবা"}}}]);
+//# sourceMappingURL=chunk-400512d8.f2a307fc.js.map
